@@ -345,7 +345,7 @@ a {
   align-items: center;
   height: 1080px;
   background: var(--blue-color);
-  background-image: url("/img/front/front_bg.png");
+  background-image: url("img/front/front_bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
